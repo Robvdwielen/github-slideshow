@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"etst"
+Github is very hard
 Use the left arrow to go back!
